@@ -27,11 +27,11 @@
 		<module>all</module>
 		<module>clojure</module>
 		<module>frege</module>
-		<module>gosu</module>
+<!--		<module>gosu</module>-->
 		<module>groovy</module>
-		<module>hoot</module>
+<!--		<module>hoot</module>-->
 		<module>java</module>
-		<module>kotlin</module>
+<!--		<module>kotlin</module>-->
 		<module>python</module>
 		<module>ruby</module>
 		<module>scala</module>
