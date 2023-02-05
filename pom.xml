@@ -26,7 +26,7 @@
 	<modules>
 		<module>all</module>
 		<module>clojure</module>
-		<module>frege</module>
+<!--		<module>frege</module>-->
 <!--		<module>gosu</module>-->
 		<module>groovy</module>
 <!--		<module>hoot</module>-->
